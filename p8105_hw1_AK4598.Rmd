@@ -2,7 +2,7 @@
 title: "p1805 HW1 by AK4598"
 author: "Aleya Khalifa"
 date: "`r Sys.Date()`"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
